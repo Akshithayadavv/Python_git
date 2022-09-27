@@ -1,5 +1,3 @@
 echo "Hello"
 
-
-
 echo "Hi"
